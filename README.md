@@ -1,12 +1,8 @@
 # 💫Sobre :
-:telescope: Estou atualmente trabalhando em pequenos projetos que sirvam de exemplo para meus estudos
-
-:dancers: Busco colaborar com empresas otimizando seus processos e consertando erros comuns
-
-:raised_hands: Busco ajuda sobre Metodologias Ágeis e Soft Skills
-
-:seedling: Estou atualmente aprendendo a fazer aplicações Full-Stack em JS
-
+:telescope: Estou atualmente trabalhando em pequenos projetos que sirvam de exemplo para meus estudos  
+:dancers: Busco colaborar com empresas otimizando seus processos e consertando erros comuns  
+:raised_hands: Busco ajuda sobre Metodologias Ágeis e Soft Skills  
+:seedling: Estou atualmente aprendendo a fazer aplicações Full-Stack em JS  
 :zap: Fato Engraçado: Odeio que girem a tranca da porta 2x
 
 ## 🌐Redes Sociais
