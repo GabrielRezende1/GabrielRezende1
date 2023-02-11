@@ -1,5 +1,9 @@
 # 💫Sobre :
-Desenvolvedor Full-Stack JS e Analista de Sistemas
+:telescope: Estou atualmente trabalhando em pequenos projetos que sirvam de exemplo para meus estudos
+:dancers: Busco colaborar com empresas otimizando seus processos e consertando erros comuns
+:raised_hands: Busco ajuda sobre Metodologias Ágeis e Soft Skills
+:seedling: Estou atualmente aprendendo a fazer aplicações Full-Stack em JS
+:zap: Fato Engraçado: Odeio que girem a tranca da porta 2x
 
 ## 🌐Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-rezende-1044b6208) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21194453) 
