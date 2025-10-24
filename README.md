@@ -4,6 +4,7 @@
 :raised_hands: Looking for help with Agile Methodologies and Soft Skills  
 :seedling: Currently improving my hard skills in Software Development.  
 :zap: Passionate about technology, some of my hobbies are playing video games, reading manga and playing guitar  
+:computer: How about you take a quick [look at my Portfolio?](https://gabriel-rezende.vercel.app/).
 
 ## 🌐 Social Networks
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/268529784777080834) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gabirurez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-s-rezende) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21194453) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/hitobangu) 
